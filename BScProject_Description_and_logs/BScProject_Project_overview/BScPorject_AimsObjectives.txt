@@ -1,0 +1,15 @@
+AIMS
+- To investigate whether Lotus japonicus, a model legume, can grow and develop under simulated Martian conditions, including nutrient-poor regolith, high pH, and low-pressure atmosphere.
+- To assess whether inoculation with nitrogen-fixing Mesorhizobium can enhance plant growth and symbiosis under these conditions.
+
+OBJECTIVES
+- To compare growth and biomass accumulation of L. japonicus on MMS-2 Martian soil simulant and nutrient-free quartz sand.
+- To evaluate the effect of Mesorhizobium sp. LjRoot218 inoculation on nodulation and plant development.
+- To determine the buffering capacity and pH behavior of MMS-2 and the feasibility of pH adjustment.
+- To test the germination success of L. japonicus seeds in a simulated Mars-like atmosphere using a modified Miller-Urey system.
+
+HYPOTHESES
+- IF L. japonicus is grown on MMS-2, THEN it will show reduced growth and biomass compared to sand due to high pH and nutrient limitations.
+- IF L. japonicus is inoculated with Mesorhizobium, THEN plant growth and nodulation will improve compared to uninoculated controls.
+- IF MMS-2 is treated with acid or buffer, THEN pH will decrease until target pH is acquired
+- IF L. japonicus seeds are exposed to a low-pressure Mars-like atmosphere, THEN germination rates will be lower than under Earth conditions and possibly entirely entirely inhibited.

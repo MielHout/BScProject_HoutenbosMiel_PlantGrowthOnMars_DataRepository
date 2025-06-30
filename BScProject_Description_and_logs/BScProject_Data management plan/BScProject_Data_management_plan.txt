@@ -1,0 +1,58 @@
+Data Management Plan
+
+1. Types of data
+a. The project generates experimental and observational data. These include:
+- Quantitative plant growth measurements (shoot/root length, fresh/dry biomass)
+- Qualitative observations (nodule formation, seedling health)
+- Digital images (JPEG) of plants over time 
+- Digital images (JPEG) of final plant tissues
+- Soil pH measurements (numeric)
+- Germination records under different atmospheric conditions
+
+b. Measurement levels:
+- Continuous data (e.g. shoot length in mm, biomass in mg).
+- Categorical data (e.g. inoculated vs. uninoculated; nodule color).
+- Binary data (e.g. germinated: yes/no).
+
+c. Data were collected through:
+- Manual measurement with rulers and lab scales
+- Soil pH measured using calibrated Mettler Toledo S220 pH meter for pH readings.
+- Digital images captured using a consistent smartphone camera setup
+- Atmospheric data from a modified Miller-Urey chamber
+- Data were entered and processed in Microsoft Excel and analyzed in R (v4.3.1)
+
+2. Contextual details (Metadata)
+a. File naming convention:  
+[treatment/plantID]_[file type].ext  
+Example: PlantTreatment_data.csv or MMS2Rhizo_plantphoto1.jpg
+
+
+b. File formats used:
+- .csv for spreadsheets and numerical data
+- .jpg for plant photographs
+- .mp4 for plant growth over time (screenshots of exact plant growth by day editted in pdf table)
+- .pdf for image tables
+- .txt for metadata and documentation
+- .R for analysis scripts
+
+3. Quality control
+a. Data accuracy was ensured by:
+- Double-checking entries during measurement
+- Keeping digital data and notebook data
+- Consistent use of units and measurement tools
+- ensuring quality of pictures taken
+
+b. Quality control roles:
+- The student (author) performed primary checks
+- Supervisor periodically checked in 
+
+4. Storage, backup and security
+a. Final data will be made publicly available on Zenodo with DOI: [insert DOI when available]  
+b. All data were backed up daily via cloud sync (OneDrive) and local storage on an external hard drive
+
+5. Copyright and reuse
+a. Copyright is held by the student author, under guidance of the University of Amsterdam  
+b. Data may be reused for educational or research purposes with proper citation. Upon submission, it will be shared with the supervisor and examiners; after graduation, the dataset may be uploaded to Zenodo.
+
+6. Protection and privacy
+a. Not applicable – no personal, sensitive, or identifiable human or animal data involved. No ethical or privacy concerns apply.
